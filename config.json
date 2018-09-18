@@ -1,0 +1,11 @@
+{
+	"token": "ADD_DISCORD_TOKEN_HERE",
+	"username": "Audium",
+	"prefix": "~",
+	"player": {
+		"bitrate": 128000,
+		"timeout": 10000,
+		"dblevel": -21,
+		"ytapikey": "ADD_API_KEY_HERE"
+	}
+}
