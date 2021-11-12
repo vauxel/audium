@@ -1,11 +1,20 @@
 {
-	"token": "ADD_DISCORD_TOKEN_HERE",
+	"token": "INSERT_BOT_TOKEN",
+	"botid": "INSERT_BOT_ID",
 	"username": "Audium",
 	"prefix": "~",
+	"db": {
+		"path": "res/db/",
+		"saveinterval": 60000
+	},
 	"player": {
-		"bitrate": 128000,
+		"bitrate": 96000,
 		"timeout": 10000,
 		"dblevel": -21,
-		"ytapikey": "ADD_API_KEY_HERE"
+		"ytapikey": "INSERT_YT_API_KEY",
+		"scapikey": "INSERT_SOUNDCLOUD_API_KEY"
+	},
+	"roles": {
+		"maxlimit": 20
 	}
 }
